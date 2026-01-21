@@ -1,1 +1,2 @@
-# CISC-211-Lab-08-Functions
+# CISC-211-Lab-Functions
+Starter project for FUnctions lab
