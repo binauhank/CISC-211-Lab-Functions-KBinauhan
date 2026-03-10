@@ -97,7 +97,6 @@ asmUnpack:
     pop {r4-r11, LR}
     
     BX LR
-    MOV PC, LR
     /*** STUDENTS: Place your asmUnpack code ABOVE this line!!! **************/
 
 
@@ -129,7 +128,6 @@ asmAbs:
     pop {r4-r11, LR}
     
     BX LR
-    MOV PC, LR
     /*** STUDENTS: Place your asmAbs code ABOVE this line!!! **************/
 
 
@@ -153,7 +151,6 @@ asmMult:
     pop {r4-r11, LR}
     
     BX LR
-    MOV PC, LR
     /*** STUDENTS: Place your asmMult code ABOVE this line!!! **************/
 
    
@@ -185,7 +182,6 @@ asmFixSign:
     pop {r4-r11, LR}
     
     BX LR
-    MOV PC, LR
     /*** STUDENTS: Place your asmFixSign code ABOVE this line!!! **************/
 
 
@@ -294,7 +290,6 @@ asmMain:
     pop {r4-r11, LR}
     
     BX LR
-    MOV PC, LR
     /*** STUDENTS: Place your asmMain code ABOVE this line!!! **************/
 
 
